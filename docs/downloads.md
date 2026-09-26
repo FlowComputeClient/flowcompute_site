@@ -15,7 +15,7 @@ Ensure your system meets the following prerequisites before installing:
 3. **Windows Users:** The Windows Subsystem for Linux (WSL) must be installed for local operation.
 4. **Operating System:** Windows 10/11 (64-bit) or a modern Linux distribution (e.g., Ubuntu 22.04 LTS or newer).
 
-# Download Links for version 0.9.0:
+## Download Links for version 0.9.0:
 
 * Linux AppImage: [FlowCompute-0.9.0-x86_64.AppImage](https://github.com/FlowComputeClient/flowcompute/releases/download/0.9.0/FlowCompute-0.9.0-x86_64.AppImage)
 * Windows installer: [FlowCompute-0.9.0-win64.exe](https://github.com/FlowComputeClient/flowcompute/releases/download/0.9.0/FlowCompute-0.9.0-win64.exe)
