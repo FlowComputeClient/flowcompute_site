@@ -10,9 +10,9 @@ title: Downloads
 ## System Requirements
 Ensure your system meets the following prerequisites before installing:
 1. **Graphics:** The system must support Vulkan for rendering.
-2. **OpenFOAM:** OpenFOAM must be installed in advance. OpenCFD installations must be in `/usr/lib/openfoam` and Foundation installations must be in `/opt`.
-3. **Windows Users:** The Windows Subsystem for Linux (WSL) must be installed for local operation.
-4. **Operating System:** Windows 10/11 (64-bit) or a modern Linux distribution (e.g., Ubuntu 22.04 LTS or newer).
+1. **OpenFOAM:** OpenFOAM must be installed in advance. OpenCFD installations must be in `/usr/lib/openfoam` and Foundation installations must be in `/opt`.
+1. **Windows Users:** The Windows Subsystem for Linux (WSL) must be installed for local operation.
+1. **Operating System:** Windows 10/11 (64-bit) or a modern Linux distribution (e.g., Ubuntu 22.04 LTS or newer).
 
 # Download Links for version 0.9.0:
 
